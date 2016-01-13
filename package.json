@@ -1,0 +1,13 @@
+{
+  "name": "meteor-npm",
+  "version": "0.0.1",
+  "description": "Meteor + NPM Example",
+  "author": "borellvi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borellvi/meteor-npm"
+  },
+  "dependencies": {
+    "mathjs": "^2.6.0"
+  }
+}
